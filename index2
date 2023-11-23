@@ -2,12 +2,12 @@
 <html lang="ja">
 	<head>
 		<meta charset="UTF-8">
-		<title>猫の実態</title>
+		<title>犬の実態</title>
 		<meta name="description" content="猫の好きなもの，日々の生活をご紹介">
 	</head>
 
 	<body>
-		<h1 style="color: #f00;">猫の1日</h>
+		<h1 style="color: #f00;">犬の1日</h>
 		<p style="font-size: 18px;">ひたすら寝ています。</p>
 	</body>
 </html>
